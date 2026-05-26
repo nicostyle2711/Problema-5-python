@@ -1,4 +1,7 @@
-# Matriz de horas trabajadas por recurso
+#Nicolas Andres Garcia De Avila 
+# Fundamentos de Programacion
+# Código: 213022
+# Solucion Problema 5 Matriz de horas trabajadas por recurso
 # [Nombre, Lunes, Martes, Miércoles, Jueves, Viernes]
 
 recursos = [
